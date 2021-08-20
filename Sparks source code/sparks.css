@@ -1,0 +1,119 @@
+body{
+    background-image:url(pexels-andrey-omelyanchuk-4074126.jpg);
+    background-size: cover;
+    overflow:auto;
+    padding: 0px;
+}
+#logo img{
+    
+    padding-right: 50px;
+    width: 250px;
+    cursor: pointer;
+ }
+ 
+#logo {
+    background-color: black;
+    text-align: left;
+    opacity: 0.75;
+    
+}
+
+#logo  ul{
+    float: right;
+    margin-right: 10px;
+    
+    
+}
+ #logo ul li{
+    display:inline;
+    
+}
+ ul li a{
+    font-size: 23px;
+    color: white;
+    padding:10px;
+    text-decoration-line: none;
+}
+
+#logo ul li a:hover{
+    color: orange;
+}
+
+#cont1 img {
+    
+    width: 150px;
+    height: 150px;
+    opacity: 0.7;
+    margin-top: 75px;
+    margin-left: 170px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+
+    
+#photo ul{
+    float: left;
+    font-family: sans-serif;
+    margin-left: 40px;
+}
+#photo ul li a{
+    color: white;
+    padding:10px;
+    text-decoration-line: none;
+}
+#photo2 ul li a{
+    
+    display: block;
+    
+    background-color: black;
+    width: 60px;
+    opacity: 0.7;
+    margin-left: 30px;
+    padding:10px;
+    text-decoration-line: none;
+}
+    
+#photo1 ul li a{
+    
+    display: block;
+    
+    background-color: black;
+    width: 120px;
+    opacity: 0.7;
+    margin-left: 40px;
+    padding:10px;
+    text-decoration-line: none;
+}
+    
+    
+}
+#photo1 ul li a:hover{
+    color: orange;
+}
+    
+
+
+
+
+#photo1 ul{
+    
+    float: center;
+    padding-left: 100px;
+    
+    
+}
+
+#photo2 ul{
+    float: center;
+    padding-left: 200px;
+}
+
+
+
+
+
+
+
+
+
